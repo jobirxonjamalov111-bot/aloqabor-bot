@@ -1,7 +1,4 @@
 import os
-from dotenv import load_dotenv
 
-load_dotenv()
-
-BOT_TOKEN = os.getenv("BOT_TOKEN")
-ADMIN_ID = os.getenv("ADMIN_ID")
+BOT_TOKEN = "8994002731:AAFrj59Ty8zo_ysCKHpfILaovwddtu0B6bE"
+ADMIN_ID = 8003726053
